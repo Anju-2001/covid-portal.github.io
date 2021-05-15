@@ -1,1 +1,1 @@
-# covid-portal.github.io
+# covid-portal
